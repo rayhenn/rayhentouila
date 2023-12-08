@@ -16,7 +16,7 @@ export const devProjects = [
       "Les overlays Twitch personnalisent chaque diffusion en direct, agissant comme une signature visuelle distinctive. En superposant des éléments graphiques, ils vont au-delà de l'esthétique pour offrir une expérience immersive, affichant des données essentielles telles que les abonnés, les donateurs et des animations pour captiver les spectateurs.",
     technologies: ["Photoshop", "After Effect",],
     github: "https://www.behance.net/gallery/185989117/Twitch-Overlay?",
-    image: require(".//../../public/projects/flixify.png"),
+    image: require(".//../../Public/projects/flixify.png"),
     available: true,
   },
   {
@@ -26,7 +26,7 @@ export const devProjects = [
       "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current weather and forecast for the next 2 days in any city.",
     technologies: ["React", "CSS", "Chart.js"],
     github: "https://github.com/victorcodess/weather-forecast-website",
-    image: require(".//../../public/projects/skywatch-new.webp"),
+    image: require(".//../../Public/projects/skywatch-new.webp"),
     available: true,
   },
   {
@@ -36,7 +36,7 @@ export const devProjects = [
       "An image generator website that allows users to generate, combine, and download images.",
     technologies: ["React", "CSS", "Merge Images"],
     github: "https://github.com/victorcodess/alpaca-image-generator",
-    image: require(".//../../public/projects/alpaca-new.webp"),
+    image: require(".//../../Public/projects/alpaca-new.webp"),
     available: true,
   },
   {
@@ -46,7 +46,7 @@ export const devProjects = [
       "A website that reduces the length of your URL using Bit.ly's API",
     technologies: ["JavaScript", "CSS", "Bit.ly's API"],
     github: "https://github.com/victorcodess/url-shortener",
-    image: require(".//../../public/projects/shortener-new.webp"),
+    image: require(".//../../Public/projects/shortener-new.webp"),
     available: true,
   },
   // {
