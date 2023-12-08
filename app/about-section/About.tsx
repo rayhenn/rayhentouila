@@ -25,7 +25,7 @@ const About = () => {
           <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
             <AnimatedBody
               text={
-                "Ma passion réside dans la création de contenu qui m'inspire et inspire les autres. J'aime la diversité de la création sur internet, que ce soit le graphisme, le montage vidéo, le motion design et tout ce qui s'ensuit, surtout lorsqu'elles participent à résoudre des problèmes concrets et à avoir un impact positif sur leur public."
+                "Ma passion réside dans la création de contenu qui m'inspire et inspire les autres. J'aime la diversité de la création sur internet, que ce soit le graphisme, le montage vidéo, le motion design et tout ce qui s'ensuit, surtout lorsqu'elles participent à résoudre des problèmes concrets et à avoir un impact positif sur leur Public."
               }
             />
             <AnimatedBody

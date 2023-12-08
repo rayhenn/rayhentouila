@@ -57,7 +57,7 @@ export const devProjects = [
   //   technologies: ["Material UI", "React", "Formik"],
   //   github: "https://github.com/victorcodess/carpooling-service",
   //   demo: "",
-  //   image: require(".//../../public/projects/carpool-new.webp"),
+  //   image: require(".//../../Public/projects/carpool-new.webp"),
   //   available: false,
   // },
   // {
@@ -68,7 +68,7 @@ export const devProjects = [
   //   technologies: ["Next.js", "Next Auth", "Tailwind CSS"],
   //   github: "https://github.com/msp-nigeria/mlsc.ng-frontend",
   //   demo: "",
-  //   image: require(".//../../public/projects/mlsc.png"),
+  //   image: require(".//../../Public/projects/mlsc.png"),
   //   available: false,
   // },
 ];
@@ -81,7 +81,7 @@ export const designProjects = [
       "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current.",
     technologies: ["UX Research", "UI Design", "Prototyping"],
     github: "",
-    image: "/_next/image?url=%2F..%2Fpublic%2Fprojects%2Fhsl.webp&w=1920&q=75",
+    image: "/_next/image?url=%2F..%2FPublic%2Fprojects%2Fhsl.webp&w=1920&q=75",
     available: false,
   },
   {
@@ -91,7 +91,7 @@ export const designProjects = [
       "An image generator website that allows users to generate, combine, and download images.",
     technologies: ["UX Research", "UI Design", "Prototyping"],
     github: "",
-    image: "/_next/image?url=%2F..%2Fpublic%2Fprojects%2Frags.webp&w=1920&q=75",
+    image: "/_next/image?url=%2F..%2FPublic%2Fprojects%2Frags.webp&w=1920&q=75",
     available: false,
   },
   {
@@ -102,7 +102,7 @@ export const designProjects = [
     technologies: ["UX Research", "UI Design", "Prototyping"],
     github: "",
     image:
-      "/_next/image?url=%2F..%2Fpublic%2Fprojects%2Fcrown.webp&w=1920&q=75",
+      "/_next/image?url=%2F..%2FPublic%2Fprojects%2Fcrown.webp&w=1920&q=75",
     available: false,
   },
   {
@@ -112,7 +112,7 @@ export const designProjects = [
       "TMTM helps you find people who are headed to the same location as you, so you can share a ride and split the cost with them.",
     technologies: ["UX Research", "UI Design", "Prototyping"],
     github: "",
-    image: "/_next/image?url=%2F..%2Fpublic%2Fprojects%2Ftiti.webp&w=1920&q=75",
+    image: "/_next/image?url=%2F..%2FPublic%2Fprojects%2Ftiti.webp&w=1920&q=75",
     available: false,
   },
 ];
